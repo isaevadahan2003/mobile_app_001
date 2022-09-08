@@ -1,0 +1,6 @@
+idea
+venv
+.py
+__pycharm__
+__pycache__
+.idea
